@@ -19,7 +19,7 @@ Alex is a longtime data nerd who worked on economic policy research, electoral p
 **Olga Mierzwa-Sulima**, Sr. Data Scientist,  Appsilon
 Olga is experienced in production applications of analytical solutions, especially for FMCG companies. Recently she developed a price elasticity model for Unilever.
 
-**Damien Rodziewicz**, Vice President, Appsilon
+**Damian Rodziewicz**, Vice President, Appsilon
 Damian is one of the four co-founders of Appsilon. Before founding Appsilon he worked at Accenture, UBS, Microsoft and Domino Data Lab.
 
 **Pedro Silva**, Software Engineer, Appsilon
